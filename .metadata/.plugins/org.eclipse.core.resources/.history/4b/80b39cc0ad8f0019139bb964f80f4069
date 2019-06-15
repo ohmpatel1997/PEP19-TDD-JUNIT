@@ -1,0 +1,56 @@
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+
+public class removeA {
+	
+	functionality f;
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		//TEST CASES
+	/*
+	 	1. "ABCD" -> "BCD"
+	 	2. "AACD" -> "CD"
+	 	3. "BACD" -> "BCD"
+	 	4. "BBAA" -> "BBAA"
+	 	5. "AABAA" -> "BAA" 	
+	 */
+	
+		
+	}
+	@BeforeEach
+	void setUp() {
+		f = new functionality();
+	}
+	
+	@Test
+	void test-ABCD() {
+		
+		assertEquals("BCD",f.removea("ABCD"));
+		
+	}
+	@Test
+	void test-AACD() {
+		
+		
+		assertEquals("CD",f.removea("AACD"));
+		
+	}
+	@Test
+	void test-BACD() {
+		
+		
+		assertEquals("BCD",f.removea("BACD"));
+		
+	}
+	@Test
+	void test-AABAA() {
+		
+		
+		assertEquals("BAA",f.removea("AABAA"));
+		
+	}
+}

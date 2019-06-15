@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="removeA (1)" project="PEP19-TDD" tests="6" started="6" failures="0" errors="0" ignored="0">
+  <testsuite name="removeA" time="0.07" uniqueid="[engine:junit-jupiter]/[class:removeA]">
+    <testcase name="testAABAA" classname="removeA" time="0.015" displayname="testAABAA()" uniqueid="[engine:junit-jupiter]/[class:removeA]/[method:testAABAA()]"/>
+    <testcase name="testempty" classname="removeA" time="0.008" displayname="testempty()" uniqueid="[engine:junit-jupiter]/[class:removeA]/[method:testempty()]"/>
+    <testcase name="testAACD" classname="removeA" time="0.005" displayname="testAACD()" uniqueid="[engine:junit-jupiter]/[class:removeA]/[method:testAACD()]"/>
+    <testcase name="testABCD" classname="removeA" time="0.005" displayname="testABCD()" uniqueid="[engine:junit-jupiter]/[class:removeA]/[method:testABCD()]"/>
+    <testcase name="testBACD" classname="removeA" time="0.006" displayname="testBACD()" uniqueid="[engine:junit-jupiter]/[class:removeA]/[method:testBACD()]"/>
+    <testcase name="testA" classname="removeA" time="0.03" displayname="testA()" uniqueid="[engine:junit-jupiter]/[class:removeA]/[method:testA()]"/>
+  </testsuite>
+</testrun>

@@ -1,0 +1,19 @@
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+
+public class removeA {
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	}
+	@Test
+	void test() {
+		functionality f = new functionality();
+		String ans = f.removea("ABCD");
+		assertEquals("BCD",ans);
+		
+	}
+}

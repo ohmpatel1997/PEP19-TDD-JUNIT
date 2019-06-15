@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="removeA (1)" project="PEP19-TDD" tests="7" started="7" failures="0" errors="0" ignored="0">
+  <testsuite name="removeA" time="0.001" uniqueid="[engine:junit-jupiter]/[class:removeA]">
+    <testcase name="testAABAA" classname="removeA" time="0.0" displayname="testAABAA()" uniqueid="[engine:junit-jupiter]/[class:removeA]/[method:testAABAA()]"/>
+    <testcase name="testempty" classname="removeA" time="0.0" displayname="testempty()" uniqueid="[engine:junit-jupiter]/[class:removeA]/[method:testempty()]"/>
+    <testcase name="testAACD" classname="removeA" time="0.0" displayname="testAACD()" uniqueid="[engine:junit-jupiter]/[class:removeA]/[method:testAACD()]"/>
+    <testcase name="testABCD" classname="removeA" time="0.0" displayname="testABCD()" uniqueid="[engine:junit-jupiter]/[class:removeA]/[method:testABCD()]"/>
+    <testcase name="testBACD" classname="removeA" time="0.0" displayname="testBACD()" uniqueid="[engine:junit-jupiter]/[class:removeA]/[method:testBACD()]"/>
+    <testcase name="testBBAA" classname="removeA" time="0.001" displayname="testBBAA()" uniqueid="[engine:junit-jupiter]/[class:removeA]/[method:testBBAA()]"/>
+    <testcase name="testA" classname="removeA" time="0.0" displayname="testA()" uniqueid="[engine:junit-jupiter]/[class:removeA]/[method:testA()]"/>
+  </testsuite>
+</testrun>
